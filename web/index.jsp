@@ -15,5 +15,6 @@
   hello,success!
   hello,xpc,hahaha!
   hello,abcdef!!!!!!
+  hello,哈哈哈哈哈哈！
   </body>
 </html>
