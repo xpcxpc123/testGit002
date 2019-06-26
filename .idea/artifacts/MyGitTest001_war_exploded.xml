@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MyGitTest001:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyGitTest001_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MyGitTest001/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MyGitTest001" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
